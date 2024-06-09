@@ -1,5 +1,4 @@
-### Kelompok IT11 ###
----
+### Kelompok IT11
 Aisha Ayya Ratiandari - 5027231056
 Arya Sena Ramadhan - 5027231062
 ---
